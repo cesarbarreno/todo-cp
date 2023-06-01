@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cesarbarreno/todoCP/static/css/main.ea278a75.css",
+    "main.js": "/cesarbarreno/todoCP/static/js/main.6b9fdd2f.js",
+    "index.html": "/cesarbarreno/todoCP/index.html",
+    "static/media/delete.svg": "/cesarbarreno/todoCP/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/cesarbarreno/todoCP/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.ea278a75.css.map": "/cesarbarreno/todoCP/static/css/main.ea278a75.css.map",
+    "main.6b9fdd2f.js.map": "/cesarbarreno/todoCP/static/js/main.6b9fdd2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea278a75.css",
+    "static/js/main.6b9fdd2f.js"
+  ]
+}

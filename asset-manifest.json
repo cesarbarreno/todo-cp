@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/cesarbarreno/todocp/static/css/main.ea278a75.css",
-    "main.js": "/cesarbarreno/todocp/static/js/main.91c7e6d3.js",
-    "index.html": "/cesarbarreno/todocp/index.html",
-    "static/media/delete.svg": "/cesarbarreno/todocp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/cesarbarreno/todocp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.ea278a75.css.map": "/cesarbarreno/todocp/static/css/main.ea278a75.css.map",
-    "main.91c7e6d3.js.map": "/cesarbarreno/todocp/static/js/main.91c7e6d3.js.map"
+    "main.css": "/todocp/static/css/main.ea278a75.css",
+    "main.js": "/todocp/static/js/main.91c7e6d3.js",
+    "index.html": "/todocp/index.html",
+    "static/media/delete.svg": "/todocp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/todocp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.ea278a75.css.map": "/todocp/static/css/main.ea278a75.css.map",
+    "main.91c7e6d3.js.map": "/todocp/static/js/main.91c7e6d3.js.map"
   },
   "entrypoints": [
     "static/css/main.ea278a75.css",

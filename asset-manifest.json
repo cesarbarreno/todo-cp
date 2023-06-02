@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todocp/static/css/main.ea278a75.css",
-    "main.js": "/todocp/static/js/main.91c7e6d3.js",
+    "main.js": "/static/js/main.91c7e6d3.js",
     "index.html": "/todocp/index.html",
     "static/media/delete.svg": "/todocp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
     "static/media/check.svg": "/todocp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",

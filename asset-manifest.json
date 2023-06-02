@@ -9,7 +9,7 @@
     "main.91c7e6d3.js.map": "/todocp/static/js/main.91c7e6d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea278a75.css",
-    "static/js/main.91c7e6d3.js"
+    "/todocp/static/css/main.ea278a75.css",
+    "/todocp/static/js/main.91c7e6d3.js"
   ]
 }
